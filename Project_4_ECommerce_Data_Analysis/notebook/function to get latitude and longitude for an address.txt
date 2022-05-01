@@ -1,0 +1,28 @@
+from geopy.exc import GeocoderTimedOut, GeocoderQuotaExceeded
+import time
+from geopy.geocoders import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
+
+
+locator = Nominatim(user_agent="myGeocoder")
+
+
+def geocode_location(location):
+    time.sleep(2.1)
+    try:
+        return locator.geocode(location)
+    except (GeocoderTimedOut, GeocoderQuotaExceeded) as e:
+        if GeocoderQuotaExceeded:
+            print(e)
+        else:
+            print(f'Location not found: {e}')
+            return None
+        
+new_loc = data['Address'][:2].to_frame()
+
+new_loc['Address'][0] = 'Alexis Borough, Nebraska, United States'
+new_loc['Address'][1] = 'South John, Tennessee, United States'
+
+new_loc['location'] = new_loc['Address'].apply(lambda x: geocode_location(x))
+
+new_loc['location']
