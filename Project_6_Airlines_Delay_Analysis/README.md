@@ -24,3 +24,15 @@ In this porject I constructed 2 reports;
     *   Monthly average natioanl air system delay by reporting airline for the given year.
     *   Monthly average security delay by reporting airline for the given year.
     *   Monthly average late aircraft delay by reporting airline for the given year.
+
+![](assets/Capture1.PNG)
+
+![](assets/Capture2.PNG)
+
+![](assets/Capture3.PNG)
+
+![](assets/Capture4.PNG)
+
+![](assets/Capture5.PNG)
+
+![](assets/Capture6.PNG)
