@@ -9,7 +9,7 @@ In this project, I used a combination of Pandas, Plotly and Dash libraries to:
 ![](assets/Capture1.PNG)
 - Add a section to define GINI index for non-expert reader.
 - Visualize the GINI index by Country in a horizontal bar chart with a drop down menu for Year filtering.
-- Visulalize the GINI index by Year in a horizontal bar chart with dropdown menu for Country multifi-filtering.
+- Visualize the GINI index by Year in a horizontal bar chart with dropdown menu for Country multi-filtering.
 ![](assets/Capture3.PNG)
 ![](assets/Capture4.PNG)
 - Visualize the Income Share Distribution by Year in a stacked horizontal bar chart with a dropdown menu for Country filtering.
