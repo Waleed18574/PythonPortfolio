@@ -1,15 +1,15 @@
 import os
-import pandas as pd
-
+import plotly
 import plotly.express as px
-import dash_core_components as dcc
-import dash_html_components as html
+import plotly.graph_objects as go
+import dash
+from dash import dcc
+from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
-import plotly
-import dash
-import plotly.graph_objects as go
+from dash import dash_table
+import pandas as pd
 import dash_auth
 import re
 
@@ -20,14 +20,14 @@ auth = dash_auth.BasicAuth(app,USER_PASSWORD_PAIRS)
 server = app.server
 
 
-poverty = pd.read_csv('data/poverty.csv', low_memory=False)
+poverty = pd.read_csv('../data/poverty.csv', low_memory=False)
 
 
 gini = 'GINI index (World Bank estimate)'
 gini_df = poverty[poverty[gini].notna()]
 
 
-poverty_data = pd.read_csv('data/PovStatsData.csv')
+poverty_data = pd.read_csv('../data/PovStatsData.csv')
 
 
 regions = ['East Asia & Pacific', 'Europe & Central Asia',
