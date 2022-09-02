@@ -10,6 +10,7 @@ Marketing, HR and Finance.
 ## Dataset
 The dataset of this project consists of 4 tables of orders, accounts, sales_representatives and regions. I extracted those tables from Parch
 and Posey DB into csv files, then modified the orders tables by slightly decreasing its length. Even after this modification, there were more than 300,000 records left.
+\
 ![](assets/0.png)
 
 ## Executive Summary
@@ -17,6 +18,7 @@ In the first part of this project, I used a combination of libraries including #
 and ploty are interactive. I divided this project into 2 stages. In the first stage, I defined the #problem_statement, collected, cleaned and organized data. Then, I performed a general EDA on 
 the categorical and numeric columns to get to know the data. In the second stage, I answered specific hypothetical business questions from the departments of HR, 
 Finance and Sales and Marketing. Here some of the visuals used in the first part of this project:
+\
 ![](assets/1.PNG)
 ![](assets/2.PNG)
 ![](assets/3.PNG)
