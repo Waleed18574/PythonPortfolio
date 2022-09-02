@@ -1,0 +1,350 @@
+region,sales_person,account
+Northeast,Sibyl Lauria,3M
+Southeast,Earlie Schleusner,ADP
+Southeast,Moon Torian,AECOM
+Southeast,Calvin Ollison,AES
+Northeast,Elba Felder,AIG
+Northeast,Necole Victory,AT&T
+Midwest,Julie Starr,AbbVie
+Midwest,Chau Rowles,Abbott Laboratories
+West,Marquetta Laycock,Advance Auto Parts
+Northeast,Renetta Carew,Aetna
+Midwest,Cliff Meints,Aflac
+West,Georgianna Chisholm,Air Products & Chemicals
+Midwest,Chau Rowles,Alcoa
+Northeast,Julia Behrman,Allstate
+West,Georgianna Chisholm,Ally Financial
+Northeast,Tia Amato,Alphabet
+Midwest,Charles Bidwell,Altria Group
+Northeast,Nakesha Renn,Amazon.com
+Northeast,Samuel Racine,American Airlines Group
+Southeast,Earlie Schleusner,American Electric Power
+Northeast,Julia Behrman,American Express
+West,Hilma Busick,American Family Insurance Group
+Southeast,Vernita Plump,Ameriprise Financial
+Northeast,Ayesha Monica,AmerisourceBergen
+Midwest,Delilah Krum,Amgen
+West,Georgianna Chisholm,Anadarko Petroleum
+Northeast,Ayesha Monica,Anthem
+Northeast,Michel Averette,Apple
+West,Arica Stoltzfus,Applied Materials
+Southeast,Vernita Plump,Aramark
+Northeast,Gianna Dossey,Archer Daniels Midland
+Midwest,Charles Bidwell,Arrow Electronics
+West,Arica Stoltzfus,Assurant
+Midwest,Delilah Krum,AutoNation
+West,Dawna Agnew,AutoZone
+West,Dawna Agnew,Autoliv
+West,Arica Stoltzfus,Avis Budget Group
+Northeast,Elna Condello,Avnet
+West,Marquetta Laycock,BB&T Corp.
+Southeast,Maren Musto,Baker Hughes
+West,Dawna Agnew,Ball
+Northeast,Cara Clarke,Bank of America Corp.
+Southeast,Vernita Plump,Bank of New York Mellon Corp.
+West,Elwood Shutt,Baxter International
+West,Georgianna Chisholm,Becton Dickinson
+Southeast,Calvin Ollison,Bed Bath & Beyond
+Northeast,Renetta Carew,Berkshire Hathaway
+Northeast,Eugena Esser,Best Buy
+West,Marquetta Laycock,Biogen
+Southeast,Moon Torian,BlackRock
+Northeast,Michel Averette,Boeing
+West,Georgianna Chisholm,BorgWarner
+Southeast,Maren Musto,Bristol-Myers Squibb
+West,Elwood Shutt,Broadcom
+Southeast,Maren Musto,C.H. Robinson Worldwide
+West,Micha Woodford,CBRE Group
+Southeast,Babette Soukup,CBS
+Southeast,Calvin Ollison,CDW
+Northeast,Tia Amato,CHS
+West,Micha Woodford,CST Brands
+Southeast,Saran Ram,CSX
+Northeast,Elba Felder,CVS Health
+West,Micha Woodford,Cameron International
+West,Marquetta Laycock,Campbell Soup
+Midwest,Delilah Krum,Capital One Financial
+Southeast,Saran Ram,CarMax
+Northeast,Debroah Wardle,Cardinal Health
+Northeast,Silvana Virden,Caterpillar
+West,Arica Stoltzfus,Celgene
+Midwest,Cordell Rieder,Centene
+Southeast,Vernita Plump,CenturyLink
+West,Brandie Riva,Charter Communications
+Southeast,Babette Soukup,Chesapeake Energy
+Northeast,Julia Behrman,Chevron
+Northeast,Julia Behrman,Cigna
+Northeast,Ayesha Monica,Cisco Systems
+Northeast,Shawanda Selke,Citigroup
+Northeast,Gianna Dossey,Coca-Cola
+Southeast,Dorotha Seawell,Cognizant Technology Solutions
+Southeast,Nelle Meaux,Colgate-Palmolive
+Northeast,Akilah Drinkard,Comcast
+Midwest,Sherlene Wetherington,Community Health Systems
+Southeast,Calvin Ollison,Computer Sciences
+Southeast,Moon Torian,ConAgra Foods
+Northeast,Necole Victory,ConocoPhillips
+Southeast,Saran Ram,Consolidated Edison
+West,Maryanna Fiorentino,Core-Mark Holding
+West,Marquetta Laycock,Corning
+Northeast,Tia Amato,Costco
+West,Hilma Busick,Crown Holdings
+Midwest,Delilah Krum,Cummins
+West,Dawna Agnew,D.R. Horton
+Southeast,Dorotha Seawell,DISH Network
+West,Hilma Busick,DTE Energy
+Southeast,Calvin Ollison,DaVita HealthCare Partners
+Midwest,Carletta Kosinski,Danaher
+West,Brandie Riva,Dean Foods
+Northeast,Elba Felder,Deere
+Northeast,Eugena Esser,Delta Air Lines
+Southeast,Moon Torian,Devon Energy
+West,Marquetta Laycock,Discover Financial Services
+Northeast,Ernestine Pickron,Disney
+Midwest,Carletta Kosinski,Dollar General
+Southeast,Calvin Ollison,Dollar Tree
+Southeast,Calvin Ollison,Dominion Resources
+Northeast,Julia Behrman,Dow Chemical
+Northeast,Lavera Oles,DuPont
+Midwest,Cordell Rieder,Duke Energy
+Midwest,Kathleen Lalonde,EMC
+West,Arica Stoltzfus,EOG Resources
+West,Elwood Shutt,Eastman Chemical
+Southeast,Moon Torian,Ecolab
+Southeast,Earlie Schleusner,Edison International
+Midwest,Cliff Meints,Eli Lilly
+Midwest,Charles Bidwell,Emerson Electric
+Northeast,Eugena Esser,Energy Transfer Equity
+Southeast,Moon Torian,Entergy
+Northeast,Debroah Wardle,Enterprise Products Partners
+West,Soraya Fulton,Estee Lauder
+West,Micha Woodford,Eversource Energy
+Northeast,Elba Felder,Exelon
+Northeast,Samuel Racine,Express Scripts Holding
+Northeast,Eugena Esser,Exxon Mobil
+Southeast,Dorotha Seawell,Facebook
+Northeast,Akilah Drinkard,Fannie Mae
+Southeast,Vernita Plump,Farmers Insurance Exchange
+Northeast,Akilah Drinkard,FedEx
+West,Soraya Fulton,Fidelity National Financial
+Southeast,Earlie Schleusner,First Data
+Southeast,Maren Musto,FirstEnergy
+Southeast,Earlie Schleusner,Fluor
+Northeast,Sibyl Lauria,Ford Motor
+West,Georgianna Chisholm,Franklin Resources
+Northeast,Samuel Racine,Freddie Mac
+Southeast,Earlie Schleusner,Freeport-McMoRan
+West,Brandie Riva,GameStop
+Southeast,Dorotha Seawell,Gap
+Northeast,Tia Amato,General Dynamics
+Northeast,Ernestine Pickron,General Electric
+Southeast,Saran Ram,General Mills
+Northeast,Shawanda Selke,General Motors
+Southeast,Babette Soukup,Genuine Parts
+West,Elwood Shutt,Genworth Financial
+Northeast,Tia Amato,Gilead Sciences
+West,Elwood Shutt,Global Partners
+Southeast,Vernita Plump,Goodyear Tire & Rubber
+West,Maryanna Fiorentino,Group 1 Automotive
+Southeast,Maren Musto,Guardian Life Ins. Co. of America
+Northeast,Debroah Wardle,HCA Holdings
+West,Dawna Agnew,HD Supply Holdings
+Northeast,Gianna Dossey,HP
+Midwest,Chau Rowles,Halliburton
+Midwest,Delilah Krum,Hartford Financial Services Group
+Southeast,Derrick Boggess,Health Net
+West,Georgianna Chisholm,Henry Schein
+West,Micha Woodford,Hertz Global Holdings
+West,Hilma Busick,Hilton Worldwide Holdings
+Southeast,Nelle Meaux,HollyFrontier
+Northeast,Elba Felder,Home Depot
+Northeast,Debroah Wardle,Honeywell International
+West,Hilma Busick,Hormel Foods
+Northeast,Necole Victory,Humana
+West,Maryanna Fiorentino,Huntsman
+Northeast,Necole Victory,IBM
+Northeast,Julia Behrman,INTL FCStone
+Southeast,Nelle Meaux,Icahn Enterprises
+Southeast,Saran Ram,Illinois Tool Works
+Northeast,Samuel Racine,Ingram Micro
+Northeast,Sibyl Lauria,Intel
+Midwest,Carletta Kosinski,International Paper
+Southeast,Calvin Ollison,J.C. Penney
+Northeast,Eugena Esser,J.P. Morgan Chase
+Southeast,Maren Musto,Jabil Circuit
+Southeast,Dorotha Seawell,Jacobs Engineering Group
+West,Georgianna Chisholm,Jarden
+Northeast,Nakesha Renn,Johnson & Johnson
+Northeast,Samuel Racine,Johnson Controls
+West,Georgianna Chisholm,KKR
+Southeast,Dorotha Seawell,Kellogg
+Midwest,Delilah Krum,Kimberly-Clark
+Southeast,Maren Musto,Kinder Morgan
+Midwest,Cordell Rieder,Kohl's
+Midwest,Kathleen Lalonde,Kraft Heinz
+Northeast,Silvana Virden,Kroger
+Southeast,Saran Ram,L Brands
+Southeast,Moon Torian,L-3 Communications
+West,Micha Woodford,Laboratory Corp. of America
+Southeast,Earlie Schleusner,Land O'Lakes
+Southeast,Maren Musto,Las Vegas Sands
+Midwest,Julie Starr,Lear
+West,Soraya Fulton,Lennar
+Southeast,Vernita Plump,Leucadia National
+West,Arica Stoltzfus,Level 3 Communications
+West,Hilma Busick,Liberty Interactive
+Northeast,Elna Condello,Liberty Mutual Insurance Group
+Southeast,Earlie Schleusner,Lincoln National
+West,Maryanna Fiorentino,Lithia Motors
+Northeast,Nakesha Renn,Lockheed Martin
+Southeast,Calvin Ollison,Loews
+Northeast,Cara Clarke,Lowe's
+West,Micha Woodford,MGM Resorts International
+Northeast,Gianna Dossey,Macy's
+Midwest,Julie Starr,ManpowerGroup
+Northeast,Debroah Wardle,Marathon Petroleum
+Southeast,Earlie Schleusner,Marriott International
+Southeast,Derrick Boggess,Marsh & McLennan
+West,Micha Woodford,Masco
+Northeast,Elna Condello,Massachusetts Mutual Life Insurance
+West,Hilma Busick,MasterCard
+Midwest,Carletta Kosinski,McDonald's
+Northeast,Cara Clarke,McKesson
+Northeast,Michel Averette,Merck
+Northeast,Elna Condello,MetLife
+Southeast,Babette Soukup,Micron Technology
+Northeast,Renetta Carew,Microsoft
+West,Brandie Riva,Mohawk Industries
+Southeast,Saran Ram,Molina Healthcare
+Northeast,Necole Victory,Mondelez International
+Southeast,Vernita Plump,Monsanto
+Northeast,Debroah Wardle,Morgan Stanley
+West,Elwood Shutt,Mosaic
+West,Georgianna Chisholm,Murphy USA
+Southeast,Dorotha Seawell,NGL Energy Partners
+Southeast,Babette Soukup,NRG Energy
+Southeast,Derrick Boggess,National Oilwell Varco
+Northeast,Michel Averette,Nationwide
+West,Soraya Fulton,Navistar International
+Northeast,Elna Condello,New York Life Insurance
+West,Georgianna Chisholm,Newmont Mining
+West,Maryanna Fiorentino,News Corp.
+Southeast,Babette Soukup,NextEra Energy
+Southeast,Dorotha Seawell,Nordstrom
+West,Dawna Agnew,Norfolk Southern
+Midwest,Carletta Kosinski,Northrop Grumman
+Northeast,Cara Clarke,Northwestern Mutual
+Southeast,Calvin Ollison,Nucor
+West,Georgianna Chisholm,O'Reilly Automotive
+Southeast,Dorotha Seawell,Occidental Petroleum
+Southeast,Moon Torian,Office Depot
+Southeast,Moon Torian,Omnicom Group
+West,Maryanna Fiorentino,Oneok
+Northeast,Gianna Dossey,Oracle
+West,Soraya Fulton,Owens & Minor
+Southeast,Dorotha Seawell,PBF Energy
+Southeast,Moon Torian,PG&E Corp.
+Southeast,Saran Ram,PNC Financial Services Group
+Southeast,Derrick Boggess,PPG Industries
+West,Maryanna Fiorentino,PPL
+West,Micha Woodford,PVH
+Midwest,Cliff Meints,Paccar
+West,Dawna Agnew,Pacific Life
+Southeast,Nelle Meaux,Parker-Hannifin
+West,Maryanna Fiorentino,PayPal Holdings
+Midwest,Kathleen Lalonde,Penske Automotive Group
+Northeast,Eugena Esser,PepsiCo
+Southeast,Earlie Schleusner,Performance Food Group
+West,Hilma Busick,Peter Kiewit Sons'
+Northeast,Retha Sears,Pfizer
+Northeast,Gianna Dossey,Philip Morris International
+Northeast,Sibyl Lauria,Phillips 66
+Midwest,Delilah Krum,Plains GP Holdings
+West,Brandie Riva,Praxair
+West,Brandie Riva,Precision Castparts
+West,Georgianna Chisholm,Priceline Group
+Southeast,Maren Musto,Principal Financial
+Northeast,Retha Sears,Procter & Gamble
+Midwest,Sherlene Wetherington,Progressive
+Northeast,Shawanda Selke,Prudential Financial
+West,Brandie Riva,Public Service Enterprise Group
+Northeast,Julia Behrman,Publix Super Markets
+Midwest,Charles Bidwell,Qualcomm
+West,Arica Stoltzfus,R.R. Donnelley & Sons
+Midwest,Cliff Meints,Raytheon
+West,Soraya Fulton,Reinsurance Group of America
+West,Marquetta Laycock,Reliance Steel & Aluminum
+West,Brandie Riva,Republic Services
+West,Elwood Shutt,Reynolds American
+Midwest,Sherlene Wetherington,Rite Aid
+Southeast,Vernita Plump,Ross Stores
+Midwest,Cliff Meints,Sears Holdings
+West,Micha Woodford,Sempra Energy
+West,Marquetta Laycock,Sherwin-Williams
+West,Maryanna Fiorentino,Sonic Automotive
+Southeast,Derrick Boggess,Southern
+Midwest,Delilah Krum,Southwest Airlines
+West,Georgianna Chisholm,SpartanNash
+West,Elwood Shutt,Stanley Black & Decker
+Midwest,Chau Rowles,Staples
+Midwest,Charles Bidwell,Starbucks
+Northeast,Julia Behrman,State Farm Insurance Cos.
+West,Hilma Busick,State Street Corp.
+West,Maryanna Fiorentino,Stryker
+West,Hilma Busick,SunTrust Banks
+Southeast,Calvin Ollison,Supervalu
+Southeast,Derrick Boggess,Synnex
+Northeast,Tia Amato,Sysco
+Northeast,Tia Amato,TIAA
+Northeast,Sibyl Lauria,TJX
+Northeast,Silvana Virden,Target
+Midwest,Chau Rowles,Tech Data
+Midwest,Charles Bidwell,Tenet Healthcare
+West,Brandie Riva,Tenneco
+Northeast,Michel Averette,Tesoro
+Southeast,Vernita Plump,Texas Instruments
+Southeast,Vernita Plump,Textron
+Southeast,Nelle Meaux,Thermo Fisher Scientific
+West,Georgianna Chisholm,Thrivent Financial for Lutherans
+Northeast,Renetta Carew,Time Warner
+Midwest,Sherlene Wetherington,Time Warner Cable
+Southeast,Dorotha Seawell,Toys 'R' Us
+Northeast,Elna Condello,Travelers Cos.
+Northeast,Elba Felder,Twenty-First Century Fox
+Northeast,Michel Averette,Tyson Foods
+Midwest,Sherlene Wetherington,U.S. Bancorp
+Northeast,Lavera Oles,UPS
+Midwest,Kathleen Lalonde,US Foods Holding
+Midwest,Julie Starr,USAA
+Midwest,Cliff Meints,Union Pacific
+Northeast,Tia Amato,United Continental Holdings
+West,Marquetta Laycock,United Natural Foods
+Southeast,Earlie Schleusner,United States Steel
+Northeast,Michel Averette,United Technologies
+Northeast,Lavera Oles,UnitedHealth Group
+West,Arica Stoltzfus,Univar
+West,Dawna Agnew,Universal Health Services
+West,Arica Stoltzfus,Unum Group
+Southeast,Maren Musto,VF
+Northeast,Ernestine Pickron,Valero Energy
+West,Elwood Shutt,Veritiv
+Northeast,Retha Sears,Verizon
+Southeast,Babette Soukup,Viacom
+Southeast,Nelle Meaux,Visa
+West,Brandie Riva,Voya Financial
+West,Arica Stoltzfus,W.W. Grainger
+Northeast,Elna Condello,Walgreens Boots Alliance
+Northeast,Samuel Racine,Walmart
+Southeast,Saran Ram,Waste Management
+Southeast,Derrick Boggess,WellCare Health Plans
+Northeast,Lavera Oles,Wells Fargo
+West,Soraya Fulton,WestRock
+Southeast,Nelle Meaux,Western Digital
+West,Micha Woodford,Western Refining
+Midwest,Charles Bidwell,Whirlpool
+Southeast,Saran Ram,Whole Foods Market
+Northeast,Necole Victory,World Fuel Services
+West,Maryanna Fiorentino,Xcel Energy
+Midwest,Cliff Meints,Xerox
+Southeast,Maren Musto,Yum Brands
+West,Dawna Agnew,eBay
