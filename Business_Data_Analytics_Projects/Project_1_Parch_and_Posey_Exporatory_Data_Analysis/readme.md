@@ -15,7 +15,7 @@ and Posey DB into csv files, then modified the orders tables by slightly decreas
 
 ## Executive Summary
 In the first part of this project, I used a combination of libraries including #pandas, #matplotlib, #seabron, #folium, #geocoder, #geopy and #plotly. The visuals plotted using folium 
-and ploty are interactive. I divided this project into 2 stages. In the first stage, I defined the #problem_statement, collected, cleaned and organized data. Then, I performed a general EDA on 
+and ploty are interactive. I divided this part into 2 stages. In the first stage, I defined the #problem_statement, collected, cleaned and organized data. Then, I performed a general EDA on 
 the categorical and numeric columns to get to know the data. In the second stage, I answered specific hypothetical business questions from the departments of HR, 
 Finance and Sales and Marketing. Here some of the visuals used in the first part of this project:
 \
