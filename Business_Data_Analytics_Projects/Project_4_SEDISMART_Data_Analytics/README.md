@@ -29,6 +29,7 @@ The dashboard of this project can be found here:
 https://lnkd.in/eSy2GNQK
 
 Related articles:
+
 1- What is Supply Chain Analytics?
 https://lnkd.in/ea5ygmWp
 
