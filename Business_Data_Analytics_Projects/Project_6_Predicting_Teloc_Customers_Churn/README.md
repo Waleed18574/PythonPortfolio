@@ -15,7 +15,7 @@ The objective of this project is to predict customers that are about to churn in
 ***telecom_customer_churn_joined.csv*** data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 California customers with 37 variables in the third quarter. Each row represents a customer, each variable contains the customer's attributes. It shows which clients have canceled their service shows, stayed, or joined up.
 
 
-The following table shows the data types of the 37 variables with theri meaning.
+The following table shows the  the 37 variables with their meaning.
 
 
 | Variable         | Meaning |
