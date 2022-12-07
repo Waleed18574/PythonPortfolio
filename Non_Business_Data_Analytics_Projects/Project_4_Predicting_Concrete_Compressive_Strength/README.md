@@ -1,13 +1,10 @@
-# Predicting Concrete Compressive Strength From Its Components Quantities
 
-![](https://i0.wp.com/theconstructor.org/wp-content/uploads/2014/04/compressive-strength-test-on-concrete-cubes.jpg?fit=657%2C472&ssl=1)
-
-## Introduction
-Concrete is the most important material in civil engineering and it is  of five major elements in various proportions: cement, water, coarse aggregates, fine aggregates (i.e. sand), and air. Concrete admixtures are natural or manufactured chemicals or additives added during concrete mixing to enhance specific properties of the fresh or hardened concrete, such as workability, durability, or early and final strength. The concrete compressive strength is a highly nonlinear function of age and ingredients. The have been several research to develop the optimum mixure of Concrete. 
+  ## Introduction
+Concrete is the most important material in civil engineering and it is  of five major elements in various proportions: cement, water, coarse aggregates, fine aggregates (i.e. sand), and air. Concrete admixtures are natural or manufactured chemicals or additives added during concrete mixing to enhance specific properties of the fresh or hardened concrete, such as workability, durability, or early and final strength. The concrete compressive strength is a  function of age and ingredients. The have been several research to develop the optimum mitxure of Concrete. 
 
 
 ## Problem Statement
-The Concrete research usually uses Concrete Compressive Strength Test in lab to find out the resultant strengths of different combination of concrete ingredients. This can be costly and time consuming. In this project, I will predict the compressive strength of concrete mixure measured in MPa using the historical records of previous testing and regression analysis methods.
+The Concrete research usually uses Concrete Compressive Strength Test in lab to find out the resultant strengths of different combination of concrete ingredients. This can be costly and time consuming. In this project, I will predict the compressive strength of concrete mixture measured in MPa using the historical records of previous testing and regression analysis methods.
 
 ## Data Source
 
@@ -24,18 +21,19 @@ Original Owner and Donor
 
   Date Donated: August 3, 2007
   
-  The following table show the names of the variables and their meanings
+  The following table shows the names of the variables and their meanings
   
-  | variable         | meaning and measurement unit|
+| variable         | meaning and measurement unit|
 | ---------------- | ----------------------------------------------- |
-|cement|quantitative , kg in a m3 mixture , Input Variable
-|slag|Blast Furnace Slag, quantitative , kg in a m3 mixture ,Input Variable
-|flyash|Fly Ash, quantitative , kg in a m3 mixture ,Input Variable
-|water|Blast Furnace Slag, quantitative , kg in a m3 mixture ,Input Variable
-|superplasticizer|Superplasticizer, quantitative , kg in a m3 mixture ,Input Variable
-|coarseaggregate|Coarse Aggregate, quantitative , kg in a m3 mixture ,Input Variable
-|fineaggregate|Fine Aggregate, quantitative , kg in a m3 mixture ,Input Variable
-|age|Age quantitative -- Day (1~365) -- Input Variable
-|csMPa|Concrete compressive strength -- quantitative -- MPa -- Output Variable
-  
- 
+|cement|quantitative, kg in a m3 mixture, Input Variable
+|slag|Blast Furnace Slag, quantitative, kg in a m3 mixture,Input Variable
+|flyash|Fly Ash, quantitative, kg in a m3 mixture,Input Variable
+|water|Blast Furnace Slag, quantitative, kg in a m3 mixture,Input Variable
+|superplasticizer|Superplasticizer, quantitative, kg in a m3 mixture,Input Variable
+|coarseaggregate|Coarse Aggregate, quantitative, kg in a m3 mixture,Input Variable
+|fineaggregate|Fine Aggregate, quantitative, kg in a m3 mixture,Input Variable
+|age|Age quantitative, Day (1~365), Input Variable
+|csMPa|Concrete compressive strength, quantitative, MPa, Output Variable
+
+
+
