@@ -12,10 +12,10 @@ A major issue facing the telecommunications (Telco) sector is customer attrition
 The objective of this project is to predict customers that are about to churn in order to catch them with a discount or attractive offers. It is desirable to develop a machine learning model that can predict customers who will leave the company. You are expected to perform the necessary data analysis and feature engineering steps before developing the model.
 
 
-***telecom_customer_churn_joined.csv*** data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 California customers with 37 variables in the third quarter. Each row represents a customer, each variable contains the customer's attributes. It shows which clients have canceled their service shows, stayed, or joined up.
+***telecom_customer_churn_joined.csv*** data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 California customers with 38 variables in the third quarter. Each row represents a customer, each variable contains the customer's attributes. It shows which clients have canceled their service shows, stayed, or joined up.
 
 
-The following table shows the  the 37 variables with their meaning.
+The following table shows the  the 38 variables with their meaning.
 
 
 | Variable         | Meaning |
